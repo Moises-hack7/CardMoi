@@ -1,0 +1,13 @@
+/* Primera forma de mandar a poner estilos */
+/* 1 Etiqueta */
+body {
+    background-color: rgba(232, 153, 34, 0.414);
+}
+
+/* Segunda forma de dar estilos */
+/* Clase */
+
+.links {
+    background-color: rgb(23, 86, 86);
+    color: white;
+}
