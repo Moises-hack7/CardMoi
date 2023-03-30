@@ -1,13 +1,13 @@
 /* Primera forma de mandar a poner estilos */
 /* 1 Etiqueta */
 body {
-    background-color: rgba(232, 153, 34, 0.414);
+    background-color: rgba(11, 7, 1, 0.923);
 }
 
 /* Segunda forma de dar estilos */
 /* Clase */
 
 .links {
-    background-color: rgb(23, 86, 86);
+    background-color: rgb(16, 226, 226);
     color: white;
 }
