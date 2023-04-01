@@ -1,13 +1,78 @@
 /* Primera forma de mandar a poner estilos */
 /* 1 Etiqueta */
 body {
-    background-color: rgba(11, 7, 1, 0.923);
+
+    margin: 0px;
+    background-color: rgba(1, 1, 0, 0.882);
 }
 
 /* Segunda forma de dar estilos */
 /* Clase */
 
+.perfil{
+    position: relative;
+    border-radius: 100px;
+    padding: 30px;
+    margin: 20px;
+    margin-left: 100px;
+    margin-top: 5px;
+}
+
+.name {
+     font-size: 20px;
+     padding: 15px;
+     text-align: justify;
+     margin-left: 50px;
+     color: aliceblue;
+}
+a {
+    font-size: 15px;
+    padding: 5px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    height: 20px;
+    width: 350px;
+    margin: 15px;
+    color: azure;
+    
+}
+
+section {
+    position: relative; /* le dice a un elemento que se mueva con respecto a otro elemento. (activa la opcion de top) mas abajo se explica) */
+    width: 35%;
+    margin: 0 auto;
+    top: 10px; /* este estilo se activa con una posicion relativa, indicanto un margen superior*/
+}
+
 .links {
-    background-color: rgb(16, 226, 226);
+    
+    margin: 15px;
     color: white;
+    font-size: 20px;
+    font-weight: 50px;
+    padding: 10px;
+    position: relative;
+}
+
+.instagram{
+    
+    background-color: rgba(224, 122, 32, 0.866);
+
+}
+
+.Facebook{
+
+    background-color: rgba(8, 121, 182, 0.866);
+}
+
+.Github {
+
+    background-color: rgba(114, 7, 168, 0.866);
+}
+
+.Linkedin{
+
+    background-color: rgba(8, 225, 237, 0.866);
 }
