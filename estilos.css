@@ -62,17 +62,32 @@ section {
 
 }
 
+.instagram:hover{
+    color: yellowgreen;
+}
+
 .Facebook{
 
     background-color: rgba(8, 121, 182, 0.866);
 }
 
+.Facebook:hover{
+    color: orangered;
+}
 .Github {
 
     background-color: rgba(114, 7, 168, 0.866);
 }
 
+.Github:hover{
+    color: gainsboro;
+}
+
 .Linkedin{
 
     background-color: rgba(8, 225, 237, 0.866);
+}
+
+.Linkedin:hover{
+    color: palevioletred;
 }
