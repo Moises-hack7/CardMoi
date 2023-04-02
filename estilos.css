@@ -61,6 +61,7 @@ section {
 .instagram{
     
     background-color: rgba(224, 122, 32, 0.866);
+    border: solid 1px white;
 
 }
 
@@ -71,6 +72,7 @@ section {
 .Facebook{
 
     background-color: rgba(8, 121, 182, 0.866);
+    border: solid 1px white;
 }
 
 .Facebook:hover{
@@ -79,6 +81,7 @@ section {
 .Github {
 
     background-color: rgba(114, 7, 168, 0.866);
+    border: solid 1px white;
 }
 
 .Github:hover{
@@ -88,6 +91,7 @@ section {
 .Linkedin{
 
     background-color: rgba(8, 225, 237, 0.866);
+    border: solid 1px white;
 }
 
 .Linkedin:hover{
